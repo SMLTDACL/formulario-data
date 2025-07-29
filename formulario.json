@@ -1,0 +1,14 @@
+[
+  {
+    "id": "a123",
+    "estado": "nuevo"
+  },
+  {
+    "id": "b123",
+    "estado": "usado"
+  },
+  {
+    "id": "c999",
+    "estado": "nuevo"
+  }
+]
